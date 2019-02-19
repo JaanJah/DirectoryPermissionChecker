@@ -8,7 +8,7 @@ This project is using [AccessChk v6.12](https://docs.microsoft.com/en-us/sysinte
 * Install [Python 3](https://www.python.org/downloads/)
 * Download latest [release](https://github.com/JaanJah/DirectoryPermissionChecker/releases)
 * Unpack the .zip file
-* Run run_me.py script inside the extracted folder.
+* Run run_me.py script.
 
 R - Read permission
 
